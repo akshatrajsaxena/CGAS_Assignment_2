@@ -10,7 +10,7 @@
 </div>
 <br>
 
-# Web Scraping (BeautifulSoup)
+# Working on Monkey Cuisine
  
  **This projects deals with making set of random cuisine using original cuisine and use that data to plot relevant graphs.** Some important distributions includes frequency-rank distributions, recipe size distributions 
 
